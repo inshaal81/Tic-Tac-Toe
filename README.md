@@ -2,6 +2,11 @@
 
 A classic Tic-Tac-Toe game built with vanilla JavaScript, HTML, and CSS.
 
+<div align="center">
+  <img src="tictactoe.png" alt="Description of Image 1" width="300"/>
+  <img src="tictactoe2.png" alt="Description of Image 2" width="300"/>
+</div>
+
 ## Live Demo
 
 [Play the game here](https://thechosen-1.github.io/Tic-Tac-Toe/)

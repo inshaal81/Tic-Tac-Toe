@@ -3,7 +3,7 @@
 A classic Tic-Tac-Toe game built with vanilla JavaScript, HTML, and CSS.
 
 <div align="center">
-  <img src="tictactoe.png" alt="Description of Image 1" width="300"/>
+  <img src="tictactoe.png" alt="Description of Image 1" width="310"/>
   <img src="tictactoe2.png" alt="Description of Image 2" width="300"/>
 </div>
 

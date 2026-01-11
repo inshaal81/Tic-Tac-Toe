@@ -54,10 +54,6 @@ This project was created as an exercise in my learning journey of full-stack dev
 - CSS Grid for game board layout
 - Game state management
 
-## Screenshots
-
-![Tic-Tac-Toe Game Board](https://img.shields.io/badge/Game-Tic--Tac--Toe-blue)
-
 ## License
 
 This project is open source and available under the MIT License.
